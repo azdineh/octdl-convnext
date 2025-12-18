@@ -1,0 +1,15 @@
+### 2. requirements.txt
+This file ensures other users install the exact libraries needed.
+
+```text
+numpy
+pandas
+Pillow
+torch
+torchvision
+timm
+torchmetrics
+scikit-learn
+matplotlib
+seaborn
+grad-cam
